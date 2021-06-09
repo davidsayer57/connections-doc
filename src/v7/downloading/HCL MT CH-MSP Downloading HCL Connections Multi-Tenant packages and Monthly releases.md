@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-# Updating HCL Connections™ 7.0 with the latest interim fix
+# Updating HCL Connections 7.0 with the latest interim fix
 
 Download the following HCL Connections Multi-Tenant packages from the HCL License and Delivery Portal. 
 
